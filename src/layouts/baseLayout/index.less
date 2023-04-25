@@ -1,8 +1,14 @@
 .layout {
+    display: flex;
+
+    .sidebar {
+        width: 256px;
+    }
+
     :global {
-        .ant-layout-sider {
-            height: calc(100vh - 64px);
-            background: #ccc
+        .main-content {
+            flex: 1;
         }
     }
+
 }

@@ -1,0 +1,11 @@
+.xh-home-footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 24px;
+  color: #808b9d;
+  width: 1280px;
+  margin: 0 auto;
+}
+.xh-home-footer-wrapper > div {
+  display: inline-block;
+}

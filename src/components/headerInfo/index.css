@@ -1,0 +1,35 @@
+.xh-headerInfo-wrapper {
+  padding: 32px !important;
+  padding-bottom: 0 !important;
+  height: 250px;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.xh-headerInfo-wrapper .process-item {
+  padding: 4px 8px;
+  background-color: #e3f1ff;
+  color: #0065d0;
+}
+.xh-headerInfo-wrapper .process-item-wrapper {
+  margin-bottom: 16px;
+  font-size: 12px;
+}
+.xh-headerInfo-wrapper .process-item-arrow {
+  margin: 0 8px;
+}
+.xh-headerInfo-wrapper .xh-header-link {
+  color: #001c4b;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.xh-headerInfo-wrapper .xh-header-link:hover {
+  color: #0065d0;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.xh-headerInfo-wrapper .xh-header-link:active {
+  color: #0051a6;
+  text-decoration: underline;
+  cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.xh-home-wrapper {
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #f6f2fe;
+}
+.xh-home-wrapper::before {
+  content: '';
+}
+.xh-about-wrapper {
+  background-color: #fff;
+}
